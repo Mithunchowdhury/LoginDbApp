@@ -1,0 +1,6 @@
+I:\MvcProject\UserLoginApp\UserLoginApp\bin\UserLoginApp.dll.config
+I:\MvcProject\UserLoginApp\UserLoginApp\bin\UserLoginApp.dll
+I:\MvcProject\UserLoginApp\UserLoginApp\bin\UserLoginApp.pdb
+I:\MvcProject\UserLoginApp\UserLoginApp\obj\Debug\UserLoginApp.csprojResolveAssemblyReference.cache
+I:\MvcProject\UserLoginApp\UserLoginApp\obj\Debug\UserLoginApp.dll
+I:\MvcProject\UserLoginApp\UserLoginApp\obj\Debug\UserLoginApp.pdb
